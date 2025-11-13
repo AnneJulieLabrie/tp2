@@ -71,5 +71,5 @@
 ![carte_mentale](https://github.com/user-attachments/assets/7a70718a-a2ea-4479-9e8b-d59e3ac1f4ba)
 
 ## Flowchart
-
+![Flowchart](https://github.com/user-attachments/assets/00124803-b30d-4a2c-9232-70ae8910f714)
 
